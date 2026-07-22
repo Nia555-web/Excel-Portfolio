@@ -16,9 +16,13 @@
 <li>VLOOKUP() or XLOOKUP()</li>
 
 <h4>Some examples of the functions that I used?</h4>
-<td><img src="./Screenshot (698).png"/></td>
+<td><img src="./Screenshot (701).png"/></td>
 <p>Some comments</p>
-<td><img src="./Screenshot (698).png"/></td>
+<td><img src="./Screenshot (702).png"/></td>
+<p>Some comments</p>
+<td><img src="./Screenshot (705).png"/></td>
+<p>Some comments</p>
+<td><img src="./Screenshot (706).png"/></td>
 <p>Some comments</p>
 <h1></h1>
 
@@ -30,46 +34,14 @@
 <li>Histogram</li>
 <li>Heath Map</li>
 <h4>Few examples of my visualisations with excel:</h4>
-<td><img src="./Screenshot (698).png"/></td>
+
+<td><img src="./Screenshot (707).png"/></td>
 <p>Some comments</p>
-<td><img src="./Screenshot (698).png"/></td>
+<td><img src="./Screenshot (708).png"/></td>
 <p>Some comments</p>
-<td><img src="./Screenshot (698).png"/></td>
-<p>Some comments</p>
-<td><img src="./Screenshot (698).png"/></td>
+<td><img src="./Screenshot (709).png"/></td>
 <p>Some comments</p>
 <h1></h1>
 <h3>What I learned</h3>
 <p>This week helped me understand that choosing the right chart is important for communicating data clearly. I also gained confidence using PivotTables and Excel functions to analyse datasets more efficiently.</p>
 <h1></h1>
-
-<p>During the first week of my Data Technician Bootcamp, I developed a strong foundation in Microsoft Excel and data analysis. I explored how data is organised, cleaned and analysed, and gained an understanding of key concepts such as data types, data structures, statistical fundamentals and the data analysis process.</p>
-<h3>Skills I practised:</h3>
-<li>Creating and formatting tables</li>
-<li>Using Excel formulas and functions</li>
-<li>Sorting and filtering datasets</li>
-<li>Applying conditional formatting</li>
-<li>Building PivotTables to summarise data</li>
-<li>Creating clear and informative data visualisations</li>
-<h4>Examples of applying functions and PivotTables:</h4>
-<table>
-  <tr>
-    <td><img src="./Screenshot (698).png" width="450"/></td>
-    <td><img src="./Screenshot (699).png" width="450"/></td>
-  </tr>
-</table>
-<H3>Charts and visualisations created:</H3>
-<li>Bar Chart</li>
-<li>Line Graph</li>
-<li>Pie Chart</li>
-<li>Scatter Plots</li>
-<li>Histogram</li>
-<li>Heath Map</li>
-<h4>Few examples of my visualisations with excel:</h4>
-<table>
-  <tr>
-    <td><img src="./Screenshot%20(695).png" width="300"></td>
-    <td><img src="./Screenshot%20(696).png" width="300"></td>
-    <td><img src="./Screenshot%20(697).png" width="300"></td>
-  </tr>
-</table>
