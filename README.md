@@ -1,4 +1,4 @@
-<H1 align="center">Nia's Bootcamp of Data Technichian Portfolio</H1>
+<H1 align="center">Nia's Data Technichian Bootcamp Portfolio</H1>
 <H2>Week One - Excel Fundamentals</H2>
 <h3>Project Overview</h3>
 <p>During the first week of my Data Technician Bootcamp, I explored Microsoft Excel as a tool for organising, analysing various different datasets and visualising data. This project demonstrates the practical skills I developed by working with datasets and creating a range of charts and summaries.</p>
